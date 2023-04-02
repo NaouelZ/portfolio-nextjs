@@ -2,9 +2,9 @@
 module.exports = {
   important: true,
   content: [
-    "./app/**/*.{js,ts,jsx,tsx}",
-    "./pages/**/*.{js,ts,jsx,tsx}",
-    "./components/*.{js,ts,jsx,tsx}",
+    "./app/**/*.tsx",
+    "./pages/**/*.tsx",
+    "./components/**/*.tsx",
   ],
   theme: {
     colors: {
