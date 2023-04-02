@@ -68,7 +68,7 @@ than 100%
             <p className="text-lg font-semibold text-gray-dark">Back-end developer (Intership), <span className="text-baby-blue"> University of North Sorbonne Paris</span></p>
             <p className="text-sm italic text-gray-dark">April 2019 - July 2019</p>
             <ul className="mt-1 text-sm text-gray-dark">
-                    <li><span className="text-baby-blue">▹</span>• Creating a website to manage medical students' internships
+                    <li><span className="text-baby-blue">▹</span>• Creating a website to manage medical students internships
 </li>
             </ul>
             <div className="mt-2 text-sm text-gray-dark">
