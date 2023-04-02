@@ -10,7 +10,7 @@ export interface Project {
     technologies: string[];
     gihubLink: string;
     previewLink: string;
-    DetailedImages: string[];
+    detailedImages: string[];
   }
 
 

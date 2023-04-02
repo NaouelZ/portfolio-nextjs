@@ -1,6 +1,10 @@
 import { useState } from 'react';
 
-const Slider = ({images} : string[]) => {
+type SliderProps = {
+  images: string[];
+}
+
+const Slider = ({images} : SliderProps) => {
   const [currentImage, setCurrentImage] = useState(0);
 
   const handlePrevClick = () => {
