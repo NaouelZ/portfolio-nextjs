@@ -7,7 +7,7 @@ function AboutPage() {
         </div>
         <div className="col-span-12 lg:col-span-12">
             <p className="my-2 text-normal text-gray-dark">
-            As a web developer, I have acquired skills in the creation and development of websites. I am able to design professional quality web pages using programming languages such as HTML, CSS and JavaScript. I also have experience using frameworks such as React, and am able to work with popular CMS's such as Drupal. 
+            As a web developer, I have acquired skills in the creation and development of websites. I am able to design professional quality web pages using programming languages such as HTML, CSS and JavaScript. I also have experience using frameworks such as React, and am able to work with popular CMS s such as Drupal. 
 I am passionate about creating responsive and easy-to-use websites for end users. My ability to problem solve and work effectively in a team environment allows me to create high quality web projects while staying on time.
             </p>
             <p className="mt-1 mb-2 text-normal text-gray-dark">Here are a few technologies I ve been working with recently:</p>
