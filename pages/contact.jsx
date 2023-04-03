@@ -6,7 +6,7 @@ function Contact() {
             <h1 className="ml-5 font-sans text-4xl font-bold text-baby-blue">Contact me</h1>
       </div>
       <p className="mt-5">If you want to keep in touch, you can contact me by </p>
-      <div className="flex flex-row content-center justify-center mt-5">
+      <div className="flex flex-col content-center justify-center mt-5 md:flex-row">
         <div className="col-span-6 mx-auto mt-10 text-center">
             <div className="px-4 py-2 mx-auto text-white bg-opacity-50 justify-self-center bg-purple rounded-2xl w-fit ">
               <i className="text-xl fa-solid fa-phone"></i>
