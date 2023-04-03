@@ -16,13 +16,13 @@ const Slider = ({images} : SliderProps) => {
   };
 
   return (
-    <div className="relative min-h-[20rem] w-auto">
+    <div className="relative min-h-[20rem] w-auto mx-auto">
       {images.map((image, index) => (
         <img
           key={index}
           src={image}
           alt={`Image ${index}`}
-          className={`absolute top-0 left-0 w-full h-full transition-opacity duration-500 ${
+          className={`absolute top-2 bottom-0 left-0 right-0 mx-auto w-auto h-[300px] transition-opacity duration-500 ${
             currentImage === index ? 'opacity-100' : 'opacity-0'
           }`}
         />

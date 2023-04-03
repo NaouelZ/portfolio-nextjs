@@ -11,7 +11,7 @@ type LayoutProps = {
         <div className="col-span-12 text-center lg:col-span-4">
           <SideBar />
         </div>
-        <div className="w-full col-span-12 pt-5 lg:col-span-8">
+        <div className="w-full col-span-12 pt-5 md:ml-5 lg:col-span-8">
           <Menu />
           <div className="mt-8 bg-white rounded-xl">
             {children}

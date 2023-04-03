@@ -19,7 +19,7 @@ const Modal = ({ isOpen, onClose, title, description, technologies, gihubLink, p
 
   return (
     <div className="fixed top-0 left-0 z-50 flex items-center justify-center w-full h-full bg-black bg-opacity-70">
-      <div className="bg-white w-1/2 h-70% rounded-lg shadow-lg">
+      <div className="bg-white w-full md:w-1/2 md:h-70% rounded-lg shadow-lg">
         <div className="relative top-0 float-right px-2 py-0.5 m-4 text-white rounded-full bg-baby-blue shadow-lg">
           <button className="text-red hover:text-gray-800" onClick={onClose}>
             X
@@ -39,9 +39,9 @@ const Modal = ({ isOpen, onClose, title, description, technologies, gihubLink, p
           </div>
           <Slider images={detailedImages} />
           <div className='mt-8 text-center'>
-            <button className="p-2 mr-5 font-bold rounded-md text-red hover:text-gray-800 bg-purple bg-opacity-30" onClick={onClose}>
+            <a className="p-2 mr-5 font-bold rounded-md text-red hover:text-gray-800 bg-purple bg-opacity-30" onClick={onClose} href={gihubLink} target='_blank'>
               Go on GitHub
-            </button>
+            </a>
           </div>
         </div>
       </div>
