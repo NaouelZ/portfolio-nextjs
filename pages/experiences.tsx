@@ -9,10 +9,10 @@ function AboutPage() {
             <p className="text-lg font-semibold text-gray-dark">Webmaster, <span className="text-baby-blue"> TFO </span> | Toronto</p>
             <p className="text-sm italic text-gray-dark">June 2024 - Present</p>
             <ul className="mt-1 text-sm text-gray-dark">
-                    <li><span className="text-baby-blue">▹</span>• Managing three distinct websites for TFO.org: a video-on-demand platform, ONFR.org: a news website, and apropos.tfo.org: a corporate informational website. Coordinating and maintaining these platforms using content management tools and the enterprise management system.</li>
-                    <li><span className="text-baby-blue">▹</span>• Overseeing website animations and actively contributing to content strategies.</li>
-                    <li><span className="text-baby-blue">▹</span>• Continuously oversee ongoing technical challenges within cross-functional teams and external partners, ensuring effective communication and collaboration for seamless issue resolution and project delivery.</li>
-                    <li><span className="text-baby-blue">▹</span>• Playing a key role in optimizing site performance, ensuring seamless operations, and facilitating continuous development. Implementing SEO optimization, conducting user testing, and enhancing user experience.</li>
+                    <li><span className="text-baby-blue">▹</span>Managing three distinct websites for TFO.org: a video-on-demand platform, ONFR.org: a news website, and apropos.tfo.org: a corporate informational website. Coordinating and maintaining these platforms using content management tools and the enterprise management system.</li>
+                    <li><span className="text-baby-blue">▹</span>Overseeing website animations and actively contributing to content strategies.</li>
+                    <li><span className="text-baby-blue">▹</span>Continuously oversee ongoing technical challenges within cross-functional teams and external partners, ensuring effective communication and collaboration for seamless issue resolution and project delivery.</li>
+                    <li><span className="text-baby-blue">▹</span>Playing a key role in optimizing site performance, ensuring seamless operations, and facilitating continuous development. Implementing SEO optimization, conducting user testing, and enhancing user experience.</li>
             </ul>
             <div className="mt-2 text-sm text-gray-dark">
                 <p>Technical environment :</p>
