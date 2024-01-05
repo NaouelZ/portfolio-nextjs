@@ -4,12 +4,12 @@ export default function SideBar() {
         <img className="z-10 px-4 w-60 drop-shadow-md" src="/avatar.svg" alt="" />
         <div id="descriptions" className="bg-white rounded-[22px] pt-[40px] mt-[-50px]">
             <h2 className="mt-6 font-sans text-2xl font-bold uppercase">Naouël Zenati</h2>
-            <h1 className="mt-1 text-sm text-gray-dark">Full-stack developer</h1>
+            <h1 className="mt-1 text-sm text-gray-dark">Junior developer</h1>
             <div className="flex flex-row justify-center mt-6 gap-x-3 ">
                 <a className="p-2 rounded-lg w-9 bg-gray drop-shadow text-[#171515] hover:text-white hover:bg-baby-blue" href='https://github.com/NaouelZ' target="_blank">
                     <i className="fab fa-github"></i>
                 </a>
-                <a className="p-2 rounded-lg w-9 bg-gray drop-shadow text-[#0072b1] hover:text-white hover:bg-baby-blue" href='www.linkedin.com/in/naouel-zenati-full-stack-developer' target="_blank">
+                <a className="p-2 rounded-lg w-9 bg-gray drop-shadow text-[#0072b1] hover:text-white hover:bg-baby-blue" href='https://ca.linkedin.com/in/naouel-zenati-junior-digital-project-coordinator/en' target="_blank">
                     <i className="fab fa-linkedin"></i>
                 </a>
             </div>
@@ -20,7 +20,7 @@ export default function SideBar() {
                     </div>
                     <div className="text-left ml-2.5">
                         <h3 className="text-sm font-normal text-gray-dark ">Phone</h3>
-                        <p>+1 (647) 367-9795</p>
+                        <p>+1 (647) 781-5219</p>
                     </div>
                 </div>
                 <div className="flex border-b border-gray-light pb-2.5 mt-2">

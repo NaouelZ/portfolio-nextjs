@@ -1,6 +1,6 @@
 function Contact() {
   return (
-    <div className="px-8 py-5">
+    <div className="p-4 px-5 rounded-lg">
               <div className="flex mt-2">
             <div className="self-center w-5 h-5 bg-baby-blue"></div>
             <h1 className="ml-5 font-sans text-4xl font-bold text-baby-blue">Contact me</h1>
@@ -12,7 +12,7 @@ function Contact() {
               <i className="text-xl fa-solid fa-phone"></i>
             </div>
             <p className="mt-5">You can call me in</p>
-            <a href="tel:+16473679795" className="mb-5 font-bold hover:text-blue">+1 (647) 367-9795</a>
+            <a href="tel:+16473679795" className="mb-5 font-bold hover:text-blue">+1 (647) 781-5219</a>
         </div>
         <div className="col-span-6 mx-auto mt-10 mb-5">
             <div className="px-4 py-2 mx-auto text-white bg-opacity-50 bg-purple rounded-2xl w-fit">
